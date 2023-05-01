@@ -1,0 +1,261 @@
+body {
+    background-color: rgb(192, 190, 190);
+    margin: 0;
+}
+/***********************parent*******************************/
+
+.parent {
+    width: 1300px;
+    height: 467px;
+    border: none;
+   position: absolute;
+   top: 5.0rem;
+   left: 2%;
+   box-shadow: 1px 1px 20px black;
+   border-radius: 15px 0px 15px 0px;
+   
+}
+/***********************parent ENDS*******************************/
+
+/***********************CONENT1*******************************/
+
+.content1 {
+    position: absolute;
+    width: 700px;
+    height: 467px;
+    border: none;
+
+}
+/***********************CONENT1 ENDS*******************************/
+
+/***********************CONENT2*******************************/
+
+.content2 {
+    position: absolute;
+    width: 600px;
+    height: 467px;
+    border: none;
+    left: 700px;
+    background-color: whitesmoke;
+    border-radius: 0px 0px 15px 0px;
+    
+}
+/***********************CONENT2 ENDS*******************************/
+
+/*********************img*********************/
+.img1 {
+    width: 701px;
+    border-radius: 15px 0px 0px 0px;
+    
+}
+/*********************img ends*********************/
+
+
+/*********************logo*********************/
+
+.logo {
+    position: absolute;
+    top: 1.5rem;
+    left: 8.6rem;
+    width:  350px;
+}
+/**********************logo ends*******************/
+
+/************************forms*************************/
+.username {
+    position: absolute;
+    left: 10.6rem;
+    top: 110px;
+    font-size: 12px;
+    font-family: calibri;
+    color: rgb(117, 112, 112);
+
+}
+.input1 {
+    position: absolute;
+    top:130px;
+    left: 10.6rem;
+    height: 30px;
+    width: 310px;
+    background-color: rgb(220, 241, 248);
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(124, 184, 206);
+    
+    
+    
+}
+.for-avatar1 {
+    border: none;
+    border-bottom: 1px solid rgb(124, 184, 206) ;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: 130px;
+    left: 8.6rem;
+    background-color: rgb(220, 241, 248);
+
+
+}
+.avatar {
+    top: 4px;
+    left: 4px;
+    width: 25px;
+    position: absolute;
+ 
+    
+   
+}
+
+.password {
+    position: absolute;
+    left: 10.6rem;
+    top: 180px;
+    font-size: 12px;
+    font-family: calibri;
+    color: rgb(117, 112, 112);
+}
+
+
+.input2 {
+    position: absolute;
+    top:200px;
+    left: 10.6rem;
+    height: 30px;
+    width: 310px;
+    background-color: rgb(220, 241, 248);
+    outline: none;
+    border: none;
+    border-bottom: 1px solid rgb(124, 184, 206);
+}
+
+.for-avatar2 {
+    border: none;
+    border-bottom: 1px solid rgb(124, 184, 206) ;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: 200px;
+    left: 8.6rem;;
+    background-color: rgb(220, 241, 248);
+}
+
+.avatar2 {
+    width: 17px;
+    position: absolute;
+    left: 8px;
+    top: 5px;
+}
+
+/************************forms ends*************************/
+/************************anchor*************************/
+a:link {
+    text-decoration: none;
+   
+    font-family: calibri;
+
+}
+a:hover {
+    transition: 1s;
+    color: blue;
+}
+.a {
+    position: absolute;
+    top: 245px;
+    left: 8.6rem;
+    color: rgb(255, 0, 0);
+    font-weight: 500;
+}
+/************************anchor  ends************************/
+
+/************************submit************************/
+.submit {
+    width: 350px;
+    background-color: rgb(223, 0, 0);
+    position: absolute;
+    height: 30px;
+    left: 8.6rem;
+    top: 280px;
+    color: white;
+    font-family: calibri;
+    font-weight: bold;
+    outline: none;
+    border-radius: 5px;
+}
+/************************submit************************/
+/************************the p************************/
+
+
+.a2 {
+    position: absolute;
+    top: 330px;
+    left: 8.6rem;
+    color: rgb(255, 0, 0);
+    font-weight: 500;
+    font-size: 14px;
+    font-family: calibri;
+}
+/************************the p ends************************/
+/************************thep************************/
+.thep {
+    position: absolute;
+    top: 350px;
+    left: 8.6rem;
+    font-size: 13px;
+    font-family: calibri;
+
+}
+/************************thep************************/
+
+/************************footer************************/
+.footer {
+    position: absolute;
+    top: 420px;
+    font-family: calibri;
+    left: 13.6rem;
+}
+
+
+/************************footer endsssssss************************/
+
+/************************freestyle***********************/
+.div1{
+    
+position: absolute;
+z-index: -1;
+width: 100%;
+height: 100%;
+background-color: rgb(185, 185, 185);
+
+}
+
+
+.div2{
+   
+    position: absolute;
+    margin-left: 50%;
+    z-index: -1;
+    width: 50%;
+    height: 100%;
+    background-color: rgb(177, 0, 0);
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
